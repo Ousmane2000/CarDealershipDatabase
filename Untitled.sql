@@ -97,6 +97,6 @@ values("1324560"),
 insert into sales_contracts (Vin, date, name, number)
 values("1324560", "01-01-2021","Ousmane Diallo", "3472221323"),
 ("4563461", "01-01-2022", "Thierno Bah", "7189034523"),
-("0987654", "01-01-2023", "Boubacar Diallo", "4556234435");
+("0987654", "01-01-2023", "Boubacar Diallo", "6455568877");
 
 
